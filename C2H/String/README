@@ -1,0 +1,8 @@
+It's an example of sending a string from C to Haskell.
+
+How to use:
+> make
+> ./hello
+
+Result:
+> "suka"

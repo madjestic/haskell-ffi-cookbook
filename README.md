@@ -1,6 +1,6 @@
 # A collection of FFI examples
 
-** Donate your code, commits are welcome. **
+## Donate your code, commits are welcome.
 
 
 Preferrably donate working code examples, something that illustrates a particular FFI usage.  
